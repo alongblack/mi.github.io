@@ -1,0 +1,131 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	margin: 0 auto ;
+}
+body{
+	height: 100%;
+	background-color: rgb(249, 249, 249);
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto auto;
+	color: #666;
+}
+
+.register-content{
+	margin: 0 auto;
+	margin-top: 110px;
+	margin-bottom: 150px;
+	width: 854px;
+	height: 548px;
+	background: white;
+	text-align: center;
+}
+.register-content h4{
+	margin-top: 30px;
+	font-size: 30px;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+.register-but{
+	margin-top: 20px ;
+	margin-left: 110px;
+}
+.register-but h2{
+	font-size: 17px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 8px;
+}
+.ment-but1{
+	width: 320px;
+	height: 40px;
+	border: 1px solid #e0e0e0;
+	background: white;
+}
+.ment-but1 input{
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 12px;
+	border-style: none;
+}
+.ment-but1 input:focus{
+       outline: none;
+}
+.ment-but3{
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 20px;
+	width: 350px;
+	height: 50px;
+	background: white;
+}
+.ment-but3 input{
+	width: 350px;
+	background-color: #ff6700;
+	height: 50px;
+	line-height: 50px;
+	display: block;
+	margin-bottom: 14px;
+	text-align: center;
+	font-size: 14px;
+	color: #fff;
+	border-style: none;
+	cursor: pointer;
+}
+
+
+.error-p{
+	text-align: left;
+	color: red;
+	padding-left: 214px;
+	margin-bottom: -16px;
+}
+
+.ment-but3 .error-p{
+	text-align: center;
+	padding: 0;
+	margin: 12px 0;
+}
+
+
+
+
+
+.sing-botton{
+	height: 19px;
+	margin: 0 auto;
+	text-align: center;
+}
+.sing-botton ul{
+	height: 19px;
+	list-style: none;
+	margin-left: 800px;
+}
+.sing-botton ul li{
+	float: left;
+	
+	margin-right: 10px;
+}
+.sing-botton ul li a{
+	text-decoration: none;
+	font-size: 14px;
+	color: #757575;
+	margin-right: 10px;
+}
+.botton-p{
+	display: inline;
+	margin-left: -460px;
+	font-size: 14px;
+	color:#757575 ;
+}
+.botton-p a{
+	text-decoration: none;
+	color: #757575;
+}
